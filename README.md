@@ -21,3 +21,5 @@ F. R. B. of Atlanta, Sticky price consumer price index less food and energy [COR
 Available: https://fred.stlouisfed.org/series/CORESTICKM159SFRBATL.
 
 ---------------------------------------------------------------------------------------------------------------------------
+
+Additional macroeconomic indicators utilized in the thesis are cited on the paper.
